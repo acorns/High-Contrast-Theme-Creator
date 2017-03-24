@@ -11,14 +11,17 @@ Works with **AHK_H** (https://hotkeyit.github.io/v2/) **only** because I decided
 
 **TestGUI.ahk** - When a theme is applied, you can run this to see how most common controls will look
 
+To apply a .theme file, simply double-click it. It will be applied and the OS's theme window will also open up.
+You may also make changes like setting you background(s) through the OS options (such  as Personalize -> Background).
+
 **Keys:**
 
-|                                                       |                          |
-|-------------------------------------------------------|--------------------------|
-| ctrl+s     | Save                                     |                          |
-| ctrl+alt+s | Save to clipboard                        |                          |
-| ctrl+alt+s | Open/load a .theme file                  |                          |
-| arrows     | While color picker (crosshair) is active |  moves cursor by 1 pixel |
+| KEY        | Action (in the main window)                                      |
+|-------------------------------------------------------------------------------|
+| ctrl+s     | Save                                                             |
+| ctrl+alt+s | Save to clipboard                                                |
+| ctrl+alt+s | Open/load a .theme file                                          |
+| arrows     | While color picker (crosshair) is active moves cursor by 1 pixel |
 
 ------
 ## HOW IT WILL LOOK
