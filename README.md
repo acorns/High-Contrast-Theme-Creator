@@ -15,4 +15,10 @@ Not all windows will look the same. Many programs theme stff differently, or ove
 
 Since this was made for and tested only on Windows 10, I cannot/did not test if it works with Classic Theme *(the Windows 98 look)*. If it does, you'll probably have access to more of the colors. High Contrast only uses a handful of the available colors.
 
-... Screenshots to be added ...
+Screenshots:
+
+[Applied theme](http://i.imgur.com/LUXskiu.png)
+
+[Native OS theme](http://i.imgur.com/ri7t1kc.png)
+
+![Imgur](http://i.imgur.com/wI1K1kq.gif)
