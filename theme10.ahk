@@ -221,6 +221,7 @@ return
 ; ~esc::
 mainGuiClose:
 prevGuiClose:
+frameGuiClose:
 goBackToYourUglyOS:
 	cColors.Free()
 	CrossHair(true)
