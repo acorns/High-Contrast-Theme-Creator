@@ -21,8 +21,8 @@ Works with **AHK_H** (https://hotkeyit.github.io/v2/) **only** because I decided
 | arrows     | While color picker (crosshair) is active |  moves cursor by 1 pixel |
 
 ------
-## HOW IT wiLL LOOK
-Not all windows will look the same. Many programs theme stff differently, or override defaults. So like all High Contrast themes, it'll probably look ugly on some/most windows. Don't blame me. Also, this was **made for Windows 10**. The created themes may or may not work on older OS's.
+## HOW IT WILL LOOK
+Not all windows will look the same. Many programs theme stuff differently, or override defaults. So like all High Contrast themes, it'll probably look ugly on some/most windows. Don't blame me. Also, this was **made for Windows 10**. The created themes may or may not work on older OS's.
 
 Since this was made for and tested only on Windows 10, I cannot/did not test if it works with Classic Theme *(the Windows 98 look)*. If it does, you'll probably have access to more of the colors. High Contrast only uses a handful of the available colors.
 
