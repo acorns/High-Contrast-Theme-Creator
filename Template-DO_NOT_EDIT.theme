@@ -1,0 +1,64 @@
+; Copyright © Microsoft Corp.
+
+
+[Theme]
+; Windows - IDS_THEME_DISPLAYNAME_AERO
+DisplayName=Test Theme
+ThemeId={30A4D7D0-E8D2-467C-BC88-C9A557F57D63}
+
+[Control Panel\Desktop]
+PicturePosition=4
+
+[VisualStyles]
+Path=%SystemRoot%\Resources\Themes\Aero\AeroLite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=1
+ColorizationColor=0X7F000000
+VisualStyleVersion=10
+HighContrast=3
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Control Panel\Colors]
+ActiveBorder=255 0 0
+ActiveTitle=0 0 128
+AppWorkspace=105 3 69
+Background=64 0 64
+ButtonAlternateFace=69 124 7
+ButtonDkShadow=45 45 45
+ButtonFace=48 22 7
+ButtonHilight=191 0 96
+ButtonLight=106 49 15
+ButtonShadow=255 0 0
+ButtonText=220 220 220
+GradientActiveTitle=164 221 181
+GradientInactiveTitle=128 128 128
+GrayText=166 166 0
+Hilight=45 0 138
+HilightText=0 255 128
+HotTrackingColor=211 67 88
+InactiveBorder=128 0 128
+InactiveTitle=214 214 214
+InactiveTitleText=133 133 133
+InfoText=220 220 220
+InfoWindow=66 66 0
+Menu=128 0 255
+MenuBar=64 0 128
+MenuHilight=0 64 128
+MenuText=230 230 230
+Scrollbar=56 68 71
+TitleText=225 225 225
+Window=30 36 38
+WindowFrame=15 15 15
+WindowText=220 220 220
+ButtonLightText=106 49 15
+MenuHilightText=0 64 128
+
+
+[Slideshow]
+ImagesRootPIDL=XGAFA8BUg/E0gouOpBhoYjAArADMdqDAuAI160KJpVKMFhZ4rKQ+BpHqmAQAAYCAv7bEAAAAs1qvGOb+RHgCXWMtxLo0BowlFTb8CKdAUAAYAEDAAAAAAMRS3OJEAIUQDt0RS5XMAAASAkAAEAw7+ORS3O5EJd7kuAAAAIyOCAAAAIAAAAAAAAAAAAAAAAAAAAAikSFACBQYAMGArBwZAIHAvBQdA4GAkBwcAAAAYAw5AEDAAAAAAoRSlcHEAM3bslGZzBAA+AQCAQAAv7r9IVtdakUJ35CAAAgb+IAAAAQAAAAAAAAAAAAAAAAAAAAAok+gAMHAvBAbAkGAkBwcAAAAWAwkAAAAnAw7+WIAAAQMTB1U32pr/3IH/PUgMSIQ6M6ctkGAAAAZAAAAA8BAAAALAAAA3BQaA4GAkBwbAcHAzBgLAkGAtBQbAUGAyBwcAkGA2BQZAMGAvBgbAQHAyBwbAwGAwBQYA4GAlBAbA8FAjBwdAUDAuBQMAgGAyAAdAgHA5BQZAcHA5BAAAAAAAAAAAAAAWAAAAA
+
+Interval=3600000
+Shuffle=1
