@@ -16,12 +16,12 @@ You may also make changes like setting you background(s) through the OS options 
 
 **Keys:**
 
-| KEY        | Action (in the main window)                                      |
-|------------|------------------------------------------------------------------|
-| ctrl+s     | Save                                                             |
-| ctrl+alt+s | Save to clipboard                                                |
-| ctrl+alt+s | Open/load a .theme file                                          |
-| arrows     | While color picker (crosshair) is active moves cursor by 1 pixel |
+| KEY    | Action (in the main window)                                      |
+|--------|------------------------------------------------------------------|
+| ctrl+s | Save                                                             |
+| alt+s  | Save to clipboard                                                |
+| ctrl+o | Open/load a .theme file                                          |
+| arrows | While color picker (crosshair) is active moves cursor by 1 pixel |
 
 ------
 ## HOW IT WILL LOOK
