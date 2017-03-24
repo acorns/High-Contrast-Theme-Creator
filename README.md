@@ -11,10 +11,13 @@ Works with **AHK_H** (https://hotkeyit.github.io/v2/) **only** because I decided
 
 **TestGUI.ahk** - When a theme is applied, you can run this to see how most common controls will look
 
+**theme10_exe.zip** - Same as Theme10.ahk but compiled to .exe, for those without ahk_h. it **does not** contain TestGUI.ahk
+
+### To apply a .theme file
 To apply a .theme file, simply double-click it. It will be applied and the OS's theme window will also open up.
 You may also make changes like setting you background(s) through the OS options (such  as Personalize -> Background).
 
-**Keys:**
+## Keys:
 
 | KEY    | Action (in the main window)                                      |
 |--------|------------------------------------------------------------------|
