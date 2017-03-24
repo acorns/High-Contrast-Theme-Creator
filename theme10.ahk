@@ -1,4 +1,4 @@
-﻿/*
+/*
 Name: Theme10
 Version 1.0 (Friday, March 24, 2017)
 Created: Friday, February 24, 2017
@@ -813,7 +813,7 @@ rgb(c){
 
 
 loadPrev:
-	#include %A_ScriptDir%\prev.ahk
+	#include %A_ScriptDir%\lib\prev.ahk
 return
 
-#include %A_ScriptDir%\controlcolors.ahk
+#include %A_ScriptDir%\lib\controlcolors.ahk
