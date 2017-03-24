@@ -5,9 +5,20 @@ It makes uglies
 Works with **AHK_H** (https://hotkeyit.github.io/v2/) **only** because I decided to have the tall GUI scrollable. Simple changes can be made to undo that, but I'm not going to.
 
 ------
-Main file:
-Theme10.ahk - Run this.
-TestGUI.ahk - When a theme is applied, you can run this to see how most common controls will look
+## HOW TO USE
+
+**Theme10.ahk** - Run this. This is the main file
+
+**TestGUI.ahk** - When a theme is applied, you can run this to see how most common controls will look
+
+**Keys:**
+
+|                                                       |                          |
+|-------------------------------------------------------|--------------------------|
+| ctrl+s     | Save                                     |                          |
+| ctrl+alt+s | Save to clipboard                        |                          |
+| ctrl+alt+s | Open/load a .theme file                  |                          |
+| arrows     | While color picker (crosshair) is active |  moves cursor by 1 pixel |
 
 ------
 ## HOW IT wiLL LOOK
