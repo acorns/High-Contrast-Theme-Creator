@@ -17,7 +17,7 @@ You may also make changes like setting you background(s) through the OS options 
 **Keys:**
 
 | KEY        | Action (in the main window)                                      |
-|-------------------------------------------------------------------------------|
+|------------|------------------------------------------------------------------|
 | ctrl+s     | Save                                                             |
 | ctrl+alt+s | Save to clipboard                                                |
 | ctrl+alt+s | Open/load a .theme file                                          |
