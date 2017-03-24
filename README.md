@@ -7,6 +7,11 @@ Works with **AHK_H** (https://hotkeyit.github.io/v2/) **only** because I decided
 ------
 ## HOW TO USE
 
+> ***DOWNLOAD EVERYTHING*** : https://github.com/acorns/High-Contrast-Theme-Creator/archive/master.zip (Or click the *Clone or Download* button)
+>
+> The /theme/ folder with the default template file is required for it to all work properly, even the exe version. I'm too lazy to fix this.
+
+
 **Theme10.ahk** - Run this. This is the main file
 
 **TestGUI.ahk** - When a theme is applied, you can run this to see how most common controls will look
