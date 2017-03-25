@@ -1,0 +1,64 @@
+; Copyright © Microsoft Corp.
+
+
+[Theme]
+; Windows - IDS_THEME_DISPLAYNAME_AERO
+DisplayName=Dark Bamboo
+ThemeId={0728573B-C1CD-4D6B-86A1-EE567B3FC302}
+
+[Control Panel\Desktop]
+PicturePosition=4
+
+[VisualStyles]
+Path=%SystemRoot%\Resources\Themes\Aero\AeroLite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=1
+ColorizationColor=0X7F000000
+VisualStyleVersion=10
+HighContrast=3
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Control Panel\Colors]
+ActiveBorder=78 20 2
+ActiveTitle=32 53 35
+AppWorkspace=18 27 33
+Background=5 7 25
+ButtonAlternateFace=13 73 44
+ButtonDkShadow=12 41 18
+ButtonFace=29 33 24
+ButtonHilight=70 33 52
+ButtonLight=49 53 15
+ButtonShadow=14 47 56
+ButtonText=140 197 126
+GradientActiveTitle=20 15 34
+GradientInactiveTitle=7 4 8
+GrayText=203 182 202
+Hilight=55 114 149
+HilightText=255 255 255
+HotTrackingColor=72 176 171
+InactiveBorder=65 51 77
+InactiveTitle=27 39 49
+InactiveTitleText=122 243 219
+InfoText=223 125 123
+InfoWindow=16 42 1
+Menu=32 64 13
+MenuBar=49 26 71
+MenuHilight=26 7 36
+MenuText=255 145 146
+Scrollbar=21 12 80
+TitleText=168 155 245
+Window=46 54 44
+WindowFrame=70 61 18
+WindowText=96 237 134
+ButtonLightText=49 53 15
+MenuHilightText=26 7 36
+
+
+[Slideshow]
+ImagesRootPIDL=XGAFA8BUg/E0gouOpBhoYjAArADMdqDAuAI160KJpVKMFhZ4rKQ+BpHqmAQAAYCAv7bEAAAAs1qvGOb+RHgCXWMtxLo0BowlFTb8CKdAUAAYAEDAAAAAAMRS3OJEAIUQDt0RS5XMAAASAkAAEAw7+ORS3O5EJd7kuAAAAIyOCAAAAIAAAAAAAAAAAAAAAAAAAAAikSFACBQYAMGArBwZAIHAvBQdA4GAkBwcAAAAYAw5AEDAAAAAAoRSlcHEAM3bslGZzBAA+AQCAQAAv7r9IVtdakUJ35CAAAgb+IAAAAQAAAAAAAAAAAAAAAAAAAAAok+gAMHAvBAbAkGAkBwcAAAAWAwkAAAAnAw7+WIAAAQMTB1U32pr/3IH/PUgMSIQ6M6ctkGAAAAZAAAAA8BAAAALAAAA3BQaA4GAkBwbAcHAzBgLAkGAtBQbAUGAyBwcAkGA2BQZAMGAvBgbAQHAyBwbAwGAwBQYA4GAlBAbA8FAjBwdAUDAuBQMAgGAyAAdAgHA5BQZAcHA5BAAAAAAAAAAAAAAWAAAAA
+
+Interval=3600000
+Shuffle=1

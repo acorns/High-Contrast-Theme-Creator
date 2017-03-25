@@ -1,0 +1,64 @@
+; Copyright © Microsoft Corp.
+
+
+[Theme]
+; Windows - IDS_THEME_DISPLAYNAME_AERO
+DisplayName=Delightful Sprout
+ThemeId={46BA21B1-54E6-4846-98C9-B09A8EAB89E8}
+
+[Control Panel\Desktop]
+PicturePosition=4
+
+[VisualStyles]
+Path=%SystemRoot%\Resources\Themes\Aero\AeroLite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=1
+ColorizationColor=0X7F000000
+VisualStyleVersion=10
+HighContrast=3
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Control Panel\Colors]
+ActiveBorder=37 10 65
+ActiveTitle=16 16 16
+AppWorkspace=46 4 13
+Background=47 50 21
+ButtonAlternateFace=47 5 27
+ButtonDkShadow=36 30 42
+ButtonFace=41 50 61
+ButtonHilight=25 8 19
+ButtonLight=72 40 19
+ButtonShadow=17 10 80
+ButtonText=176 176 176
+GradientActiveTitle=38 52 11
+GradientInactiveTitle=128 128 128
+GrayText=143 163 155
+Hilight=34 58 91
+HilightText=136 185 143
+HotTrackingColor=160 50 128
+InactiveBorder=0 0 0
+InactiveTitle=106 106 106
+InactiveTitleText=201 201 201
+InfoText=152 225 127
+InfoWindow=13 66 61
+Menu=76 63 5
+MenuBar=39 64 88
+MenuHilight=40 71 54
+MenuText=194 194 194
+Scrollbar=16 7 44
+TitleText=199 199 199
+Window=24 29 35
+WindowFrame=51 8 31
+WindowText=137 171 182
+ButtonLightText=72 40 19
+MenuHilightText=40 71 54
+
+
+[Slideshow]
+ImagesRootPIDL=XGAFA8BUg/E0gouOpBhoYjAArADMdqDAuAI160KJpVKMFhZ4rKQ+BpHqmAQAAYCAv7bEAAAAs1qvGOb+RHgCXWMtxLo0BowlFTb8CKdAUAAYAEDAAAAAAMRS3OJEAIUQDt0RS5XMAAASAkAAEAw7+ORS3O5EJd7kuAAAAIyOCAAAAIAAAAAAAAAAAAAAAAAAAAAikSFACBQYAMGArBwZAIHAvBQdA4GAkBwcAAAAYAw5AEDAAAAAAoRSlcHEAM3bslGZzBAA+AQCAQAAv7r9IVtdakUJ35CAAAgb+IAAAAQAAAAAAAAAAAAAAAAAAAAAok+gAMHAvBAbAkGAkBwcAAAAWAwkAAAAnAw7+WIAAAQMTB1U32pr/3IH/PUgMSIQ6M6ctkGAAAAZAAAAA8BAAAALAAAA3BQaA4GAkBwbAcHAzBgLAkGAtBQbAUGAyBwcAkGA2BQZAMGAvBgbAQHAyBwbAwGAwBQYA4GAlBAbA8FAjBwdAUDAuBQMAgGAyAAdAgHA5BQZAcHA5BAAAAAAAAAAAAAAWAAAAA
+
+Interval=3600000
+Shuffle=1

@@ -1,0 +1,64 @@
+; Copyright © Microsoft Corp.
+
+
+[Theme]
+; Windows - IDS_THEME_DISPLAYNAME_AERO
+DisplayName=Cute Quail Bear
+ThemeId={4AE8FC4F-0057-4472-986E-DCDA51A0924C}
+
+[Control Panel\Desktop]
+PicturePosition=4
+
+[VisualStyles]
+Path=%SystemRoot%\Resources\Themes\Aero\AeroLite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=1
+ColorizationColor=0X7F000000
+VisualStyleVersion=10
+HighContrast=3
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Control Panel\Colors]
+ActiveBorder=61 26 28
+ActiveTitle=55 60 31
+AppWorkspace=29 63 9
+Background=39 48 18
+ButtonAlternateFace=62 52 77
+ButtonDkShadow=26 7 57
+ButtonFace=50 22 8
+ButtonHilight=55 32 42
+ButtonLight=17 78 38
+ButtonShadow=35 20 49
+ButtonText=110 150 246
+GradientActiveTitle=10 47 19
+GradientInactiveTitle=75 67 69
+GrayText=223 186 173
+Hilight=101 7 112
+HilightText=216 188 197
+HotTrackingColor=75 112 197
+InactiveBorder=30 76 24
+InactiveTitle=2 51 79
+InactiveTitleText=158 247 201
+InfoText=253 128 97
+InfoWindow=23 39 2
+Menu=57 41 75
+MenuBar=16 29 1
+MenuHilight=75 3 68
+MenuText=238 213 140
+Scrollbar=66 18 12
+TitleText=158 226 231
+Window=49 24 30
+WindowFrame=72 72 31
+WindowText=144 173 98
+ButtonLightText=17 78 38
+MenuHilightText=75 3 68
+
+
+[Slideshow]
+ImagesRootPIDL=XGAFA8BUg/E0gouOpBhoYjAArADMdqDAuAI160KJpVKMFhZ4rKQ+BpHqmAQAAYCAv7bEAAAAs1qvGOb+RHgCXWMtxLo0BowlFTb8CKdAUAAYAEDAAAAAAMRS3OJEAIUQDt0RS5XMAAASAkAAEAw7+ORS3O5EJd7kuAAAAIyOCAAAAIAAAAAAAAAAAAAAAAAAAAAikSFACBQYAMGArBwZAIHAvBQdA4GAkBwcAAAAYAw5AEDAAAAAAoRSlcHEAM3bslGZzBAA+AQCAQAAv7r9IVtdakUJ35CAAAgb+IAAAAQAAAAAAAAAAAAAAAAAAAAAok+gAMHAvBAbAkGAkBwcAAAAWAwkAAAAnAw7+WIAAAQMTB1U32pr/3IH/PUgMSIQ6M6ctkGAAAAZAAAAA8BAAAALAAAA3BQaA4GAkBwbAcHAzBgLAkGAtBQbAUGAyBwcAkGA2BQZAMGAvBgbAQHAyBwbAwGAwBQYA4GAlBAbA8FAjBwdAUDAuBQMAgGAyAAdAgHA5BQZAcHA5BAAAAAAAAAAAAAAWAAAAA
+
+Interval=3600000
+Shuffle=1
