@@ -6,12 +6,6 @@ Works with **AHK_H** (https://hotkeyit.github.io/v2/) **only** because I decided
 
 ------
 ## HOW TO USE
-
-> ***DOWNLOAD EVERYTHING*** : https://github.com/acorns/High-Contrast-Theme-Creator/archive/master.zip (Or click the *Clone or Download* button)
->
-> The /theme/ folder with the default template file is required for it to all work properly, even the exe version. I'm too lazy to fix this.
-
-
 **Theme10.ahk** - Run this. This is the main file
 
 **TestGUI.ahk** - When a theme is applied, you can run this to see how most common controls will look
@@ -21,6 +15,7 @@ Works with **AHK_H** (https://hotkeyit.github.io/v2/) **only** because I decided
 ### To apply a .theme file
 To apply a .theme file, simply double-click it. It will be applied and the OS's theme window will also open up.
 You may also make changes like setting you background(s) through the OS options (such  as Personalize -> Background).
+There is also a button under the File menu to apply the current theme, if it has been saved.
 
 ## Keys:
 
