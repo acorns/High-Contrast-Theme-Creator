@@ -1,4 +1,4 @@
-﻿/*
+/*
 Name: 
 Version 1.0 (Monday, March 13, 2017)
 Created: Monday, March 13, 2017
@@ -90,7 +90,8 @@ gui, prev: add, progress, xp y+6 wp cblue c0xffffff background0xffffff vselBG, 0
 gui, prev: add, text, xp+2 yp hp 0x200 backgroundTrans vselFG, Selected stuff?! 67228
 
 ; edit text
-gui, prev: add, text, xs+6 y+6 w%ttt% backgroundTrans, Sea arrrgh cannon head har. South mast curse crew those curse other ashore, brothel sink.
+gui, prev: add, text, xs+6 y+6 w%ttt% backgroundTrans vEditText2, Sea arrrgh cannon head har. South mast curse crew those curse other ashore, brothel sink.
+gui, prev: add, text, xp y+3 hp c0xaaaaaa backgroundTrans vTextLink2, Another link`, probably
 ; guiControlGet, selFG, prev: pos
 ; guiControl, prev: movedraw, selBG, % "x" selFGx-1 " y" selFGy-1 " w" selFGw+4 " h" selFGh
 
