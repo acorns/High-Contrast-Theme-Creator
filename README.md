@@ -1,6 +1,8 @@
 # High-Contrast-Theme-Creator
 It makes uglies
 
+Forum topic: https://autohotkey.com/boards/viewtopic.php?f=65&t=29597
+
 ## PLEASE READ
 Works with **AHK_H** (https://hotkeyit.github.io/v2/) **only** because I decided to have the tall GUI scrollable. Simple changes can be made to undo that, but I'm not going to.
 
